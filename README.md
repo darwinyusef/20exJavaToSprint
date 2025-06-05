@@ -98,5 +98,10 @@
 
 ## 9. Impresión de mensajes en consola  
 - Uso de `System.out.println()` para mensajes informativos  
-- Uso de emojis en mensajes para mejorar la claridad  
+- Uso de emojis en mensajes para mejorar la claridad
+- 
+
+Crear un proyecto para mi completamente en JAVA -> darwinyusef.com
+Integrar todo a DOCKER con Postgresql en digital ocean
+
 
